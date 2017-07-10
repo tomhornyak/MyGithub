@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveFilesByDate", "MoveFilesByDate\MoveFilesByDate.csproj", "{688A1E8E-4BAA-4A49-A2F0-71A196684C6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovePicturesByDate", "MovePicturesByDate\MovePicturesByDate.csproj", "{2D706E3A-112F-4AE9-BF6D-9633CC41A850}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{688A1E8E-4BAA-4A49-A2F0-71A196684C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{688A1E8E-4BAA-4A49-A2F0-71A196684C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{688A1E8E-4BAA-4A49-A2F0-71A196684C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D706E3A-112F-4AE9-BF6D-9633CC41A850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D706E3A-112F-4AE9-BF6D-9633CC41A850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D706E3A-112F-4AE9-BF6D-9633CC41A850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D706E3A-112F-4AE9-BF6D-9633CC41A850}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
